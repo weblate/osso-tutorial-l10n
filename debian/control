@@ -1,0 +1,119 @@
+Source: osso-tutorial-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: osso-tutorial-l10n-mr0
+Section: misc
+Architecture: all
+Provides: osso-tutorial-l10n-mr
+Depends: osso-tutorial-l10n-ruru, osso-tutorial-l10n-frfr, osso-tutorial-l10n-frca, osso-tutorial-l10n-dadk, osso-tutorial-l10n-itit, osso-tutorial-l10n-svse, osso-tutorial-l10n-nono, osso-tutorial-l10n-fifi, osso-tutorial-l10n-nlnl, osso-tutorial-l10n-enus, osso-tutorial-l10n-dede, osso-tutorial-l10n-esmx, osso-tutorial-l10n-eses, osso-tutorial-l10n-cscz, osso-tutorial-l10n-ptpt, osso-tutorial-l10n-engb, osso-tutorial-l10n-plpl
+Description: osso-tutorial marketing release package
+ This is a metapackage for osso-tutorial to pull all the l10n packages.
+ Application developers of osso-tutorial should depend on
+ "osso-tutorial-l10n-mr0 | osso-tutorial-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: osso-tutorial-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (cs_CZ)
+ Language files for cs_CZ osso-tutorial.
+
+Package: osso-tutorial-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (da_DK)
+ Language files for da_DK osso-tutorial.
+
+Package: osso-tutorial-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (de_DE)
+ Language files for de_DE osso-tutorial.
+
+Package: osso-tutorial-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (en_GB)
+ Language files for en_GB osso-tutorial.
+
+Package: osso-tutorial-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (en_US)
+ Language files for en_US osso-tutorial.
+
+Package: osso-tutorial-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (es_ES)
+ Language files for es_ES osso-tutorial.
+
+Package: osso-tutorial-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (es_MX)
+ Language files for es_MX osso-tutorial.
+
+Package: osso-tutorial-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (fi_FI)
+ Language files for fi_FI osso-tutorial.
+
+Package: osso-tutorial-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (fr_CA)
+ Language files for fr_CA osso-tutorial.
+
+Package: osso-tutorial-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (fr_FR)
+ Language files for fr_FR osso-tutorial.
+
+Package: osso-tutorial-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (it_IT)
+ Language files for it_IT osso-tutorial.
+
+Package: osso-tutorial-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (nl_NL)
+ Language files for nl_NL osso-tutorial.
+
+Package: osso-tutorial-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (no_NO)
+ Language files for no_NO osso-tutorial.
+
+Package: osso-tutorial-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (pl_PL)
+ Language files for pl_PL osso-tutorial.
+
+Package: osso-tutorial-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (pt_PT)
+ Language files for pt_PT osso-tutorial.
+
+Package: osso-tutorial-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (ru_RU)
+ Language files for ru_RU osso-tutorial.
+
+Package: osso-tutorial-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for osso-tutorial (sv_SE)
+ Language files for sv_SE osso-tutorial.

@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-tutorial 20090629141149\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02\n"
+"PO-Revision-Date: 2009.11.02\n"
+"Last-Translator:\n"
+"Language-Team: it_IT\n"
+"MIME-Version: 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "tuto_application_menu"
+msgstr "Menu applicazioni e dashboard"
+
+msgid "tuto_application_menu_second_part"
+msgstr "2. Tocca l'icona per visualizzare il menu applicazioni"
+
+msgid "tuto_between_desktops"
+msgstr "Passa da un desktop all'altro facendo scorrere il dito sullo schermo"
+
+msgid "tuto_context_sensitive_menu"
+msgstr "Menu sensibile al contesto"
+
+msgid "tuto_exit"
+msgstr "Per uscire"
+
+msgid "tuto_exit_browser"
+msgstr "2. Toccare l'icona per uscire dal browser"
+
+msgid "tuto_exit_fullscreen"
+msgstr "1. Toccare l'icona per uscire dalla modalità schermo intero"
+
+msgid "tuto_find_more"
+msgstr "Ulteriori informazioni"
+
+msgid "tuto_further_options"
+msgstr "Tocca il titolo per visualizzare altre opzioni"
+
+msgid "tuto_getting_started"
+msgstr "Guida introduttiva"
+
+msgid "tuto_go_dashboard"
+msgstr "1. Tocca l'icona per visualizzare il dashboard"
+
+msgid "tuto_learn_maemo"
+msgstr "Usa Maemo in 5 passaggi"
+
+msgid "tuto_open_status_menu"
+msgstr "Toccare sull'area di stato per aprire il relativo menu"
+
+msgid "tuto_panorama_desktop"
+msgstr "Desktop panoramico"
+
+msgid "tuto_return_desktop"
+msgstr "3. Tocca l'area vuota per tornare al desktop"
+
+msgid "tuto_status_area_menu"
+msgstr "Area di stato e menu"
+
+msgid "tuto_tap_hold"
+msgstr "Tenere premuto per aprire il menu"
+
+msgid "tuto_ti_get_started"
+msgstr "Introduzione"
+
+msgid "tuto_ti_get_started_with_nokia"
+msgstr "Introduzione a Nokia N900"
+
+msgid "tuto_view_menu"
+msgstr "Menu Visualizza"

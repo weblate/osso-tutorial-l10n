@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-tutorial 20090629141149\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02\n"
+"PO-Revision-Date: 2009.11.02\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "tuto_application_menu"
+msgstr "Sovellusvalikko ja kojelauta"
+
+msgid "tuto_application_menu_second_part"
+msgstr "2. Siirry sovellusvalikkoon koskettamalla kuvaketta"
+
+msgid "tuto_between_desktops"
+msgstr "Siirry työpöydästä toiseen liu'uttamalla sormea näytöllä"
+
+msgid "tuto_context_sensitive_menu"
+msgstr "Tilannevalikko"
+
+msgid "tuto_exit"
+msgstr "Poistuminen"
+
+msgid "tuto_exit_browser"
+msgstr "2. Poistu selaimesta koskettamalla kuvaketta"
+
+msgid "tuto_exit_fullscreen"
+msgstr "1. Poistu koko näytön tilasta koskettamalla kuvaketta"
+
+msgid "tuto_find_more"
+msgstr "Lisätietoja"
+
+msgid "tuto_further_options"
+msgstr "Saat lisäasetuksia koskettamalla otsikkoa"
+
+msgid "tuto_getting_started"
+msgstr "Aloittaminen"
+
+msgid "tuto_go_dashboard"
+msgstr "1. Siirry kojelautaan koskettamalla kuvaketta"
+
+msgid "tuto_learn_maemo"
+msgstr "Opettele Maemon käyttö - 5 vaihetta"
+
+msgid "tuto_open_status_menu"
+msgstr "Avaa tilavalikko koskettamalla tila-aluetta"
+
+msgid "tuto_panorama_desktop"
+msgstr "Panoraamakojelauta"
+
+msgid "tuto_return_desktop"
+msgstr "3. Palaa työpöydälle koskettamalla tyhjää aluetta"
+
+msgid "tuto_status_area_menu"
+msgstr "Tila-alue ja valikko"
+
+msgid "tuto_tap_hold"
+msgstr "Avaa valikko painamalla pitkään"
+
+msgid "tuto_ti_get_started"
+msgstr "Aloittaminen"
+
+msgid "tuto_ti_get_started_with_nokia"
+msgstr "Nokia N900 -laitteen käytön aloittaminen"
+
+msgid "tuto_view_menu"
+msgstr "Ohjelmavalikko"

@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-tutorial 20090629141149\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02\n"
+"PO-Revision-Date: 2009.11.02\n"
+"Last-Translator:\n"
+"Language-Team: es_MX\n"
+"MIME-Version: 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "tuto_application_menu"
+msgstr "Panel y menú de aplicaciones"
+
+msgid "tuto_application_menu_second_part"
+msgstr "2. Toque el icono para ir al menú de aplicaciones"
+
+msgid "tuto_between_desktops"
+msgstr "Muévase entre escritorios deslizando el dedo por la pantalla"
+
+msgid "tuto_context_sensitive_menu"
+msgstr "Menú contextual"
+
+msgid "tuto_exit"
+msgstr "Para salir"
+
+msgid "tuto_exit_browser"
+msgstr "2. Toque el icono para salir del explorador"
+
+msgid "tuto_exit_fullscreen"
+msgstr "1. Toque el icono para salir del modo de pantalla completa"
+
+msgid "tuto_find_more"
+msgstr "Más información"
+
+msgid "tuto_further_options"
+msgstr "Toque el título para ver más opciones"
+
+msgid "tuto_getting_started"
+msgstr "Introducción"
+
+msgid "tuto_go_dashboard"
+msgstr "1. Toque el icono para ir al panel"
+
+msgid "tuto_learn_maemo"
+msgstr "Aprenda Maemo en 5 pasos"
+
+msgid "tuto_open_status_menu"
+msgstr "Toque el área de estado para abrir el menú Estado"
+
+msgid "tuto_panorama_desktop"
+msgstr "Escritorio de panorámica"
+
+msgid "tuto_return_desktop"
+msgstr "3. Toque en el área vacía para volver al escritorio"
+
+msgid "tuto_status_area_menu"
+msgstr "Menú y área de estado"
+
+msgid "tuto_tap_hold"
+msgstr "Toque y mantenga presionado para abrir el menú"
+
+msgid "tuto_ti_get_started"
+msgstr "Introducción"
+
+msgid "tuto_ti_get_started_with_nokia"
+msgstr "Guía de introducción de Nokia N900"
+
+msgid "tuto_view_menu"
+msgstr "Menú Vista"

@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-tutorial 20090629141149\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02\n"
+"PO-Revision-Date: 2009.11.02\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "tuto_application_menu"
+msgstr "Anwendungsmenü und Anzeigetafel"
+
+msgid "tuto_application_menu_second_part"
+msgstr "2. Auf Symbol tippen, um zum Anwendungsmenü zu wechseln"
+
+msgid "tuto_between_desktops"
+msgstr ""
+"Wechseln Sie zwischen Desktops, indem Sie Ihren Finger über den Bildschirm "
+"ziehen"
+
+msgid "tuto_context_sensitive_menu"
+msgstr "Kontextmenü"
+
+msgid "tuto_exit"
+msgstr "Beenden"
+
+msgid "tuto_exit_browser"
+msgstr "2. Auf Symbol tippen, um Browser zu beenden"
+
+msgid "tuto_exit_fullscreen"
+msgstr "1. Auf Symbol tippen, um Vollbildmodus zu beenden"
+
+msgid "tuto_find_more"
+msgstr "Weitere Informationen"
+
+msgid "tuto_further_options"
+msgstr "Auf Titel tippen, um weitere Optionen anzuzeigen"
+
+msgid "tuto_getting_started"
+msgstr "Erste Schritte"
+
+msgid "tuto_go_dashboard"
+msgstr "1. Auf Symbol tippen, um zur Anzeigetafel zu wechseln"
+
+msgid "tuto_learn_maemo"
+msgstr "Maemo in 5 Schritten"
+
+msgid "tuto_open_status_menu"
+msgstr "Auf Statusbereich tippen, um das Statusmenü zu öffnen"
+
+msgid "tuto_panorama_desktop"
+msgstr "Panorama-Desktop"
+
+msgid "tuto_return_desktop"
+msgstr "3. Auf leeren Bereich tippen, um zum Desktop zurückzukehren"
+
+msgid "tuto_status_area_menu"
+msgstr "Statusbereich und -menü"
+
+msgid "tuto_tap_hold"
+msgstr "Tippen und halten, um das Menü zu öffnen"
+
+msgid "tuto_ti_get_started"
+msgstr "Erste Schritte"
+
+msgid "tuto_ti_get_started_with_nokia"
+msgstr "Erste Schritte mit dem Nokia N900"
+
+msgid "tuto_view_menu"
+msgstr "Ansicht-Menü"

@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-tutorial 20090629141149\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02\n"
+"PO-Revision-Date: 2009.11.02\n"
+"Last-Translator:\n"
+"Language-Team: pt_PT\n"
+"MIME-Version: 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "tuto_application_menu"
+msgstr "Menu de aplicações e painel de instrumentos"
+
+msgid "tuto_application_menu_second_part"
+msgstr "2. Toque no ícone para aceder ao menu de aplicações"
+
+msgid "tuto_between_desktops"
+msgstr "Alterne de ambiente de trabalho deslizando o dedo no ecrã"
+
+msgid "tuto_context_sensitive_menu"
+msgstr "Menu sensível ao contexto"
+
+msgid "tuto_exit"
+msgstr "Para sair"
+
+msgid "tuto_exit_browser"
+msgstr "2. Toque no ícone para sair do browser"
+
+msgid "tuto_exit_fullscreen"
+msgstr "1. Toque no ícone para sair do modo de ecrã inteiro"
+
+msgid "tuto_find_more"
+msgstr "Saber mais"
+
+msgid "tuto_further_options"
+msgstr "Toque no título para ver mais opções"
+
+msgid "tuto_getting_started"
+msgstr "Iniciação"
+
+msgid "tuto_go_dashboard"
+msgstr "1. Toque no ícone para aceder ao painel de instrumentos"
+
+msgid "tuto_learn_maemo"
+msgstr "Aprenda a utilizar o Maemo em 5 passos"
+
+msgid "tuto_open_status_menu"
+msgstr "Toque na área de estado para abrir o menu de estado"
+
+msgid "tuto_panorama_desktop"
+msgstr "Ambiente de trabalho de panorama"
+
+msgid "tuto_return_desktop"
+msgstr "3. Toque no espaço em branco para regressar ao ambiente de trabalho"
+
+msgid "tuto_status_area_menu"
+msgstr "Área e menu de estado"
+
+msgid "tuto_tap_hold"
+msgstr "Toque continuamente para abrir o menu"
+
+msgid "tuto_ti_get_started"
+msgstr "Apresentação"
+
+msgid "tuto_ti_get_started_with_nokia"
+msgstr "Iniciação ao Nokia N900"
+
+msgid "tuto_view_menu"
+msgstr "Ver menu"

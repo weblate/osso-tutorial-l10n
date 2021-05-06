@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-tutorial 20090629141149\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02\n"
+"PO-Revision-Date: 2009.11.02\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "tuto_application_menu"
+msgstr "Programmeny og instrumentpanel"
+
+msgid "tuto_application_menu_second_part"
+msgstr "2. Trykk på ikonet for å gå til programmenyen"
+
+msgid "tuto_between_desktops"
+msgstr "Gå fra ett skrivebord til et annet ved å skyve fingeren over skjermen"
+
+msgid "tuto_context_sensitive_menu"
+msgstr "Kontekstavhengig meny"
+
+msgid "tuto_exit"
+msgstr "Slik avslutter du:"
+
+msgid "tuto_exit_browser"
+msgstr "2. Trykk på ikonet for avslutte webleseren"
+
+msgid "tuto_exit_fullscreen"
+msgstr "1. Trykk på ikonet for å avslutte fullskjermmodus"
+
+msgid "tuto_find_more"
+msgstr "Finn ut mer"
+
+msgid "tuto_further_options"
+msgstr "Trykk på tittelen for å vise flere alternativer"
+
+msgid "tuto_getting_started"
+msgstr "Komme i gang"
+
+msgid "tuto_go_dashboard"
+msgstr "1. Trykk på ikonet for å gå til instrumentpanelet"
+
+msgid "tuto_learn_maemo"
+msgstr "Lær deg Maemo i fem trinn"
+
+msgid "tuto_open_status_menu"
+msgstr "Trykk på statusområdet for å åpne statusmenyen"
+
+msgid "tuto_panorama_desktop"
+msgstr "Panoramaskrivebord"
+
+msgid "tuto_return_desktop"
+msgstr "3. Trykk i det tomme området for å gå tilbake til skrivebordet"
+
+msgid "tuto_status_area_menu"
+msgstr "Statusområde og -meny"
+
+msgid "tuto_tap_hold"
+msgstr "Trykk på og hold nede for å åpne menyen"
+
+msgid "tuto_ti_get_started"
+msgstr "Komme i gang"
+
+msgid "tuto_ti_get_started_with_nokia"
+msgstr "Kom i gang med Nokia N900"
+
+msgid "tuto_view_menu"
+msgstr "Vis-meny"

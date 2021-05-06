@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-tutorial 20090629141149\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02\n"
+"PO-Revision-Date: 2009.11.02\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "tuto_application_menu"
+msgstr "Меню приложений и информационная панель"
+
+msgid "tuto_application_menu_second_part"
+msgstr "2. Коснитесь значка для перехода к меню приложений"
+
+msgid "tuto_between_desktops"
+msgstr "Перемещайтесь между рабочими столами, проводя пальцем по экрану"
+
+msgid "tuto_context_sensitive_menu"
+msgstr "Контекстное меню"
+
+msgid "tuto_exit"
+msgstr "Выход"
+
+msgid "tuto_exit_browser"
+msgstr "2. Коснитесь значка для выхода из браузера"
+
+msgid "tuto_exit_fullscreen"
+msgstr "1. Коснитесь значка для выхода из полноэкранного режима"
+
+msgid "tuto_find_more"
+msgstr "Подробнее"
+
+msgid "tuto_further_options"
+msgstr "Коснитесь заголовка для просмотра опций"
+
+msgid "tuto_getting_started"
+msgstr "Начало работы"
+
+msgid "tuto_go_dashboard"
+msgstr "1. Коснитесь значка для перехода к информационной панели"
+
+msgid "tuto_learn_maemo"
+msgstr "Изучить Maemo за 5 шагов"
+
+msgid "tuto_open_status_menu"
+msgstr "Коснитесь области статуса для открытия меню статуса"
+
+msgid "tuto_panorama_desktop"
+msgstr "Панорамный рабочий стол"
+
+msgid "tuto_return_desktop"
+msgstr "3. Для возврата к Рабочему столу коснитесь за пределами диалога"
+
+msgid "tuto_status_area_menu"
+msgstr "Область статуса и меню"
+
+msgid "tuto_tap_hold"
+msgstr "Коснитесь и удерживайте для открытия меню"
+
+msgid "tuto_ti_get_started"
+msgstr "Начало работы"
+
+msgid "tuto_ti_get_started_with_nokia"
+msgstr "Начало работы с Nokia N900"
+
+msgid "tuto_view_menu"
+msgstr "Просмотр меню"
