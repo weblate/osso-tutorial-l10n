@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: osso-tutorial 20090629141149\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.06.29 14:11+0300\n"
-"PO-Revision-Date: 2010-05-30 10:43+0200\n"
-"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
-"Language-Team: tr_TR\n"
+"PO-Revision-Date: 2021-05-26 12:33+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-tutorial-l10n/tr/>\n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 msgid "tuto_bd_continue"
 msgstr "Devam et"
@@ -167,3 +170,56 @@ msgstr "Web"
 msgid "tuto_ti_web_page"
 msgstr "Web sayfası"
 
+msgid "tuto_panorama_desktop"
+msgstr "Panorama masaüstü"
+
+msgid "tuto_view_menu"
+msgstr "Menüyü görüntüle"
+
+msgid "tuto_tap_hold"
+msgstr "Menüyü açmak için dokunun ve basılı tutun"
+
+msgid "tuto_status_area_menu"
+msgstr "Durum alanı ve menü"
+
+msgid "tuto_return_desktop"
+msgstr "3. Masaüstüne dönmek için boş alana dokunun"
+
+msgid "tuto_open_status_menu"
+msgstr "Durum menüsünü açmak için durum alanına dokunun"
+
+msgid "tuto_learn_maemo"
+msgstr "5 adımda Maemo'yu öğrenin"
+
+msgid "tuto_go_dashboard"
+msgstr "1. Denetim paneline gitmek için simgeye dokunun"
+
+msgid "tuto_getting_started"
+msgstr "Başlarken"
+
+msgid "tuto_further_options"
+msgstr "Diğer seçenekleri görüntülemek için başlığa dokunun"
+
+msgid "tuto_find_more"
+msgstr "Daha fazlasını öğren"
+
+msgid "tuto_exit_fullscreen"
+msgstr "1. Tam ekran modundan çıkmak için simgeye dokunun"
+
+msgid "tuto_exit_browser"
+msgstr "2. Tarayıcıdan çıkmak için simgeye dokunun"
+
+msgid "tuto_exit"
+msgstr "Çıkmak için"
+
+msgid "tuto_context_sensitive_menu"
+msgstr "Bağlama duyarlı menü"
+
+msgid "tuto_between_desktops"
+msgstr "Parmağınızı ekranda kaydırarak masaüstleri arasında hareket edin"
+
+msgid "tuto_application_menu_second_part"
+msgstr "2. Uygulama menüsüne gitmek için simgeye dokunun"
+
+msgid "tuto_application_menu"
+msgstr "Uygulama menüsü ve denetim paneli"
