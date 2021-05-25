@@ -1,0 +1,75 @@
+#
+# Roman Moravčík <roman.moravcik@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-tutorial 20090629141149\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.02\n"
+"PO-Revision-Date: 2010-05-02 18:15+0200\n"
+"Last-Translator:\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
+
+msgid "tuto_application_menu"
+msgstr "Ponuka aplikácií a ovládací panel"
+
+msgid "tuto_application_menu_second_part"
+msgstr "2. Klepnutím na ikonu prejdete do ponuky aplikácií"
+
+msgid "tuto_between_desktops"
+msgstr "Pohybujte sa medzi plochami posúvaním prstu po displeji"
+
+msgid "tuto_context_sensitive_menu"
+msgstr "Kontextová ponuka"
+
+msgid "tuto_exit"
+msgstr "Ukončiť"
+
+msgid "tuto_exit_browser"
+msgstr "2. Klepnutím na ikonu ukončíte prehliadač"
+
+msgid "tuto_exit_fullscreen"
+msgstr "1. Klepnutím na ikonu ukončíte režim celej obrazovky"
+
+msgid "tuto_find_more"
+msgstr "Nájsť ďalšie"
+
+msgid "tuto_further_options"
+msgstr "Klepnutím na názov zobrazíte ďalšie možnosti"
+
+msgid "tuto_getting_started"
+msgstr "Začíname"
+
+msgid "tuto_go_dashboard"
+msgstr "1. Klepnutím na ikonu prejdete do ovládacieho panelu"
+
+msgid "tuto_learn_maemo"
+msgstr "Naučte sa pracovať s prehliadačom Maemo pomocou 5 krokov"
+
+msgid "tuto_open_status_menu"
+msgstr "Klepnutím na oblasť stavu otvorite ponuku stavu"
+
+msgid "tuto_panorama_desktop"
+msgstr "Plocha Panorama"
+
+msgid "tuto_return_desktop"
+msgstr "3. Klepnutím mimo aplikačné okno sa vrátite na Plochu"
+
+msgid "tuto_status_area_menu"
+msgstr "Oblasť a ponuka stavu"
+
+msgid "tuto_tap_hold"
+msgstr "Klepnutím a podržaním otvorite ponuku"
+
+msgid "tuto_ti_get_started"
+msgstr "Začíname"
+
+msgid "tuto_ti_get_started_with_nokia"
+msgstr "Začíname s mobilným počítačom N900"
+
+msgid "tuto_view_menu"
+msgstr "Zobraziť ponuku"
