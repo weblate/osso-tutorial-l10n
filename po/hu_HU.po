@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-tutorial 20090629141149\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-02-01 16:21+0100\n"
+"Last-Translator: Andy1210 <andy1210@gmail.com>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "tuto_bd_continue"
+msgstr "Folytatás"
+
+msgid "tuto_bd_exit"
+msgstr "Kilépés"
+
+msgid "tuto_bd_replay"
+msgstr "Ismétlés"
+
+msgid "tuto_bd_watch_more"
+msgstr "Nézz több bemutatót"
+
+msgid "tuto_ia_1_multiple_desktops"
+msgstr "Használj több asztalt"
+
+msgid "tuto_ia_check_status"
+msgstr "Ellenőrízd állapotod"
+
+msgid "tuto_ia_closing_words1"
+msgstr "Ez minden amit tudnod kell…"
+
+msgid "tuto_ia_closing_words2"
+msgstr "Bevezetés a Nokia N900 használatába"
+
+msgid "tuto_ia_is_connected"
+msgstr "Nokia N900 kapcsolódva"
+
+msgid "tuto_ia_launch_apps"
+msgstr "Indíts alkalmazásokat"
+
+msgid "tuto_ia_people"
+msgstr "Névjegyzék"
+
+msgid "tuto_ia_switch_tasks"
+msgstr "Alkalmazások közötti váltás"
+
+msgid "tuto_ia_tap_application"
+msgstr "Érintsd meg újra,hogy megnyisd az Alkalmazás menüt"
+
+msgid "tuto_ia_tap_empty"
+msgstr "Érints üres területet hogy visszatérj az asztalhoz"
+
+msgid "tuto_ia_tap_empty2"
+msgstr "Érintsd meg a kijelzőt a a párbeszéden kivül a visszalépéshez "
+
+msgid "tuto_ia_web"
+msgstr "Internet"
+
+msgid "tuto_ia_welcome_text"
+msgstr "Ismerd meg a Nokia N900-t"
+
+msgid "tuto_ti_all_contacts"
+msgstr "Minden kontakt"
+
+msgid "tuto_ti_app_manager"
+msgstr "Alkalmazás menedzser"
+
+msgid "tuto_ti_applications"
+msgstr "Több..."
+
+msgid "tuto_ti_battery"
+msgstr "Akkumulátor"
+
+msgid "tuto_ti_battery_status"
+msgstr "5 órás aktív használat"
+
+msgid "tuto_ti_bluetooth"
+msgstr "Bluetooth"
+
+msgid "tuto_ti_bluetooth_status"
+msgstr "Ki"
+
+msgid "tuto_ti_calculator"
+msgstr "Számológép"
+
+msgid "tuto_ti_calendar"
+msgstr "Naptár"
+
+msgid "tuto_ti_camera"
+msgstr "Fényképezőgép"
+
+msgid "tuto_ti_clock"
+msgstr "Óra"
+
+msgid "tuto_ti_clock_alarms"
+msgstr "Óra & Ébresztő"
+
+msgid "tuto_ti_contacts"
+msgstr "Névjegyzék"
+
+msgid "tuto_ti_date"
+msgstr "2011 Február 15 Vasárnap"
+
+msgid "tuto_ti_disconnect_wlan"
+msgstr "Szétkapcsolás Skynet free WLAN"
+
+msgid "tuto_ti_disconnet_or_change"
+msgstr "Szétkapcsolás vagy kapcsolat váltás"
+
+msgid "tuto_ti_email"
+msgstr "E-mail"
+
+msgid "tuto_ti_get_started"
+msgstr "Kezdjük"
+
+msgid "tuto_ti_get_started_with_nokia"
+msgstr "Bevezetés a Nokia N900 használatába"
+
+msgid "tuto_ti_internet_connection"
+msgstr "Internet kapcsolat"
+
+msgid "tuto_ti_media_player"
+msgstr "Médialejátszó"
+
+msgid "tuto_ti_messaging"
+msgstr "Üzenetek"
+
+msgid "tuto_ti_nokia_maps"
+msgstr "Térképek"
+
+msgid "tuto_ti_operator"
+msgstr "Szolgáltató"
+
+msgid "tuto_ti_ovi_chat"
+msgstr "Ovi azonosító"
+
+msgid "tuto_ti_phone"
+msgstr "Telefon"
+
+msgid "tuto_ti_photos"
+msgstr "Fényképek"
+
+msgid "tuto_ti_profile"
+msgstr "Üzemmódok"
+
+msgid "tuto_ti_profile_status"
+msgstr "Általános"
+
+msgid "tuto_ti_settings"
+msgstr "Beállítások"
+
+msgid "tuto_ti_skype_call"
+msgstr "Skype hívás"
+
+msgid "tuto_ti_skype_chat"
+msgstr "Skype azonosító"
+
+msgid "tuto_ti_sms"
+msgstr "SMS"
+
+msgid "tuto_ti_web"
+msgstr "Web"
+
+msgid "tuto_ti_web_page"
+msgstr "Web oldal"
+
