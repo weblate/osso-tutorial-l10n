@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-tutorial 20090629141149\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-05-30 10:43+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "tuto_bd_continue"
+msgstr "Devam et"
+
+msgid "tuto_bd_exit"
+msgstr "Çık"
+
+msgid "tuto_bd_replay"
+msgstr "Tekrar oynat"
+
+msgid "tuto_bd_watch_more"
+msgstr "Daha fazla eğitim izle"
+
+msgid "tuto_ia_1_multiple_desktops"
+msgstr "Çoklu masaüstü kullanın"
+
+msgid "tuto_ia_check_status"
+msgstr "Durumu takip edin"
+
+msgid "tuto_ia_closing_words1"
+msgstr "N900 kullanmaya başlamak için..."
+
+msgid "tuto_ia_closing_words2"
+msgstr "bilmeniz gereken her şey bu."
+
+msgid "tuto_ia_is_connected"
+msgstr "Nokia N900 bağlandı"
+
+msgid "tuto_ia_launch_apps"
+msgstr "Uygulamalar başlatın"
+
+msgid "tuto_ia_people"
+msgstr "Kişiler"
+
+msgid "tuto_ia_switch_tasks"
+msgstr "Görevleri gezinin"
+
+msgid "tuto_ia_tap_application"
+msgstr "Tekrar basıp uygulama menüsünü açın"
+
+msgid "tuto_ia_tap_empty"
+msgstr "Boş alana basarak masaüstüne dönün"
+
+msgid "tuto_ia_tap_empty2"
+msgstr "Diyalogun dışına dokunarak geri dönün"
+
+msgid "tuto_ia_web"
+msgstr "Web"
+
+msgid "tuto_ia_welcome_text"
+msgstr "Nokia N900 ile tanışın"
+
+msgid "tuto_ti_all_contacts"
+msgstr "Tüm kişiler"
+
+msgid "tuto_ti_app_manager"
+msgstr "Uygulama yöneticisi"
+
+msgid "tuto_ti_applications"
+msgstr "Daha fazla..."
+
+msgid "tuto_ti_battery"
+msgstr "Batarya"
+
+msgid "tuto_ti_battery_status"
+msgstr "5 saat aktif kullanım"
+
+msgid "tuto_ti_bluetooth"
+msgstr "Bluetooth"
+
+msgid "tuto_ti_bluetooth_status"
+msgstr "kapalı"
+
+msgid "tuto_ti_calculator"
+msgstr "Hesap makinesi"
+
+msgid "tuto_ti_calendar"
+msgstr "Takvim"
+
+msgid "tuto_ti_camera"
+msgstr "Kamera"
+
+msgid "tuto_ti_clock"
+msgstr "Saat"
+
+msgid "tuto_ti_clock_alarms"
+msgstr "Saat & Alarmlar"
+
+msgid "tuto_ti_contacts"
+msgstr "Kişiler"
+
+msgid "tuto_ti_date"
+msgstr "Pazar 15 Şubat 2011"
+
+msgid "tuto_ti_disconnect_wlan"
+msgstr "Skynetsiz Wi-Fi bağlantısını kes"
+
+msgid "tuto_ti_disconnet_or_change"
+msgstr "Bağlantıyı kes veya değiştir"
+
+msgid "tuto_ti_email"
+msgstr "E-posta"
+
+msgid "tuto_ti_get_started"
+msgstr "Başlarken"
+
+msgid "tuto_ti_get_started_with_nokia"
+msgstr "Nokia N900 ile başlarken"
+
+msgid "tuto_ti_internet_connection"
+msgstr "Internet bağlantısı"
+
+msgid "tuto_ti_media_player"
+msgstr "Medya oynatıcı"
+
+msgid "tuto_ti_messaging"
+msgstr "Mesajlaşma"
+
+msgid "tuto_ti_nokia_maps"
+msgstr "Haritalar"
+
+msgid "tuto_ti_operator"
+msgstr "Operator"
+
+msgid "tuto_ti_ovi_chat"
+msgstr "Ovi IM"
+
+msgid "tuto_ti_phone"
+msgstr "Telefon"
+
+msgid "tuto_ti_photos"
+msgstr "Resimler"
+
+msgid "tuto_ti_profile"
+msgstr "Profil"
+
+msgid "tuto_ti_profile_status"
+msgstr "Genel"
+
+msgid "tuto_ti_settings"
+msgstr "Ayarlar"
+
+msgid "tuto_ti_skype_call"
+msgstr "Skype araması"
+
+msgid "tuto_ti_skype_chat"
+msgstr "Skype IM"
+
+msgid "tuto_ti_sms"
+msgstr "SMS"
+
+msgid "tuto_ti_web"
+msgstr "Web"
+
+msgid "tuto_ti_web_page"
+msgstr "Web sayfası"
+
