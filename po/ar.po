@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-tutorial 20090629141149\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-04-01 11:47+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "tuto_bd_continue"
+msgstr "أستمرار"
+
+msgid "tuto_bd_exit"
+msgstr "خروج"
+
+msgid "tuto_bd_replay"
+msgstr "إعادة"
+
+msgid "tuto_bd_watch_more"
+msgstr "مشاهدة المزيد من الدروس"
+
+msgid "tuto_ia_1_multiple_desktops"
+msgstr "أستخدام الشاشات المتعدده"
+
+msgid "tuto_ia_check_status"
+msgstr "فحص الحالة"
+
+msgid "tuto_ia_closing_words1"
+msgstr "هذا كل مايجب معرفته"
+
+msgid "tuto_ia_closing_words2"
+msgstr " N900 لبدأ أستخدام نوكيا "
+
+msgid "tuto_ia_is_connected"
+msgstr "متصل N900 نوكيا "
+
+msgid "tuto_ia_launch_apps"
+msgstr "تشغيل التطبيقات"
+
+msgid "tuto_ia_people"
+msgstr "الأسماء"
+
+msgid "tuto_ia_switch_tasks"
+msgstr "تبديل المهام"
+
+msgid "tuto_ia_tap_application"
+msgstr "أضغط مره أخرى لفتح قائمة البرامج"
+
+msgid "tuto_ia_tap_empty"
+msgstr "أضغط على المنطقة الفارغه لرجوع إلى سطح المكتب"
+
+msgid "tuto_ia_tap_empty2"
+msgstr "أضغط خارج المربع الظاهر للخروج"
+
+msgid "tuto_ia_web"
+msgstr "الشبكة"
+
+msgid "tuto_ia_welcome_text"
+msgstr "N900 تعرف على "
+
+msgid "tuto_ti_all_contacts"
+msgstr "جميع الأسماء"
+
+msgid "tuto_ti_app_manager"
+msgstr "مدير التطبيقات"
+
+msgid "tuto_ti_applications"
+msgstr "المزيد"
+
+msgid "tuto_ti_battery"
+msgstr "البطارية"
+
+msgid "tuto_ti_battery_status"
+msgstr "5 ساعات من الأستخدام الفعلي"
+
+msgid "tuto_ti_bluetooth"
+msgstr "Bluetooth"
+
+msgid "tuto_ti_bluetooth_status"
+msgstr "يعمل"
+
+msgid "tuto_ti_calculator"
+msgstr "الحاسبة"
+
+msgid "tuto_ti_calendar"
+msgstr "التقويم"
+
+msgid "tuto_ti_camera"
+msgstr "الكاميرا"
+
+msgid "tuto_ti_clock"
+msgstr "الساعة"
+
+msgid "tuto_ti_clock_alarms"
+msgstr "الساعة والمنبه"
+
+msgid "tuto_ti_contacts"
+msgstr "الأسماء"
+
+msgid "tuto_ti_date"
+msgstr "الأحد الجمعة 15, 2011"
+
+msgid "tuto_ti_disconnect_wlan"
+msgstr "Disconnect Skynet free Wi-Fi"
+
+msgid "tuto_ti_disconnet_or_change"
+msgstr "قطع أو تغير الأتصال"
+
+msgid "tuto_ti_email"
+msgstr "البريد الألكتروني"
+
+msgid "tuto_ti_get_started"
+msgstr "البداية من هنا"
+
+msgid "tuto_ti_get_started_with_nokia"
+msgstr "  N900 لتبدأ بأستكشاف"
+
+msgid "tuto_ti_internet_connection"
+msgstr "أتصال الأنترنت"
+
+msgid "tuto_ti_media_player"
+msgstr "مشغل الوسائط"
+
+msgid "tuto_ti_messaging"
+msgstr "الرسائل"
+
+msgid "tuto_ti_nokia_maps"
+msgstr "الخرائط"
+
+msgid "tuto_ti_operator"
+msgstr "عامل"
+
+msgid "tuto_ti_ovi_chat"
+msgstr "Ovi IM"
+
+msgid "tuto_ti_phone"
+msgstr "الهاتف"
+
+msgid "tuto_ti_photos"
+msgstr "الصور"
+
+msgid "tuto_ti_profile"
+msgstr "الأوضاع"
+
+msgid "tuto_ti_profile_status"
+msgstr "عام"
+
+msgid "tuto_ti_settings"
+msgstr "إعدادات"
+
+msgid "tuto_ti_skype_call"
+msgstr " Skype مكالمات"
+
+msgid "tuto_ti_skype_chat"
+msgstr "Skype دردشة"
+
+msgid "tuto_ti_sms"
+msgstr "الرسائل القصيرة"
+
+msgid "tuto_ti_web"
+msgstr "الشبكة"
+
+msgid "tuto_ti_web_page"
+msgstr "صفحة الأنترنت"
+
