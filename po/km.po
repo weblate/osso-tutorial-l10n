@@ -1,0 +1,75 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02\n"
+"PO-Revision-Date: 2010-11-30 11:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: Khmer (http://www.transifex.net/projects/p/n900-extra-translations/language/km/)\n"
+"MIME-Version: 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "tuto_application_menu"
+msgstr "Application menu & dashboard"
+
+msgid "tuto_application_menu_second_part"
+msgstr "2. Tap icon to go to application menu"
+
+msgid "tuto_between_desktops"
+msgstr "Move between desktops by sliding your finger across the display"
+
+msgid "tuto_context_sensitive_menu"
+msgstr "Context-sensitive menu"
+
+msgid "tuto_exit"
+msgstr "To exit"
+
+msgid "tuto_exit_browser"
+msgstr "2. Tap icon to exit browser"
+
+msgid "tuto_exit_fullscreen"
+msgstr "1. Tap icon to exit full screen mode"
+
+msgid "tuto_find_more"
+msgstr "Find out more"
+
+msgid "tuto_further_options"
+msgstr "Tap title to view further options"
+
+msgid "tuto_getting_started"
+msgstr "Getting started"
+
+msgid "tuto_go_dashboard"
+msgstr "1. Tap icon to go to dashboard"
+
+msgid "tuto_learn_maemo"
+msgstr "Learn Maemo in 5 steps"
+
+msgid "tuto_open_status_menu"
+msgstr "Tap on status area to open status menu"
+
+msgid "tuto_panorama_desktop"
+msgstr "Panorama desktop"
+
+msgid "tuto_return_desktop"
+msgstr "3. Tap the empty space to return to desktop"
+
+msgid "tuto_status_area_menu"
+msgstr "Status area and menu"
+
+msgid "tuto_tap_hold"
+msgstr "Tap and hold to open menu"
+
+msgid "tuto_ti_get_started"
+msgstr "Get started"
+
+msgid "tuto_ti_get_started_with_nokia"
+msgstr "Get started with the Nokia N900"
+
+msgid "tuto_view_menu"
+msgstr "View menu"
