@@ -1,0 +1,75 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02\n"
+"PO-Revision-Date: 2010-11-30 11:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "tuto_application_menu"
+msgstr "Menú d'aplicacions i tauler"
+
+msgid "tuto_application_menu_second_part"
+msgstr "2. Toqueu la icona per anar al menú d'aplicacions"
+
+msgid "tuto_between_desktops"
+msgstr "Moveu-vos entre escriptoris lliscant el dit al llarg de la pantalla"
+
+msgid "tuto_context_sensitive_menu"
+msgstr "Menú sensible al context"
+
+msgid "tuto_exit"
+msgstr "Per sortir"
+
+msgid "tuto_exit_browser"
+msgstr "2. Toqueu la icona per sortir del navegador"
+
+msgid "tuto_exit_fullscreen"
+msgstr "1. Toqueu la icona per sortir del mode en pantalla completa"
+
+msgid "tuto_find_more"
+msgstr "Més informació..."
+
+msgid "tuto_further_options"
+msgstr "Toqueu el títol per veure més opcions"
+
+msgid "tuto_getting_started"
+msgstr "Primers passos"
+
+msgid "tuto_go_dashboard"
+msgstr "1. Toqueu la icona per anar al tauler"
+
+msgid "tuto_learn_maemo"
+msgstr "Aprengueu Maemo en 5 passos"
+
+msgid "tuto_open_status_menu"
+msgstr "Toqueu l'àrea d'estat per obrir el menú d'estat"
+
+msgid "tuto_panorama_desktop"
+msgstr "Escriptori panoràmic"
+
+msgid "tuto_return_desktop"
+msgstr "3. Toqueu l'espai per tornar a l'escriptori"
+
+msgid "tuto_status_area_menu"
+msgstr "Àrea d'estat i menú"
+
+msgid "tuto_tap_hold"
+msgstr "Toqueu i mantingueu per obrir el menú"
+
+msgid "tuto_ti_get_started"
+msgstr "Primers passos"
+
+msgid "tuto_ti_get_started_with_nokia"
+msgstr "Primers passos amb el Nokia N900"
+
+msgid "tuto_view_menu"
+msgstr "Visualitza el menú"
