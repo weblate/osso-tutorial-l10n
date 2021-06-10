@@ -1,0 +1,75 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.02\n"
+"PO-Revision-Date: 2012-05-26 16:36+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "tuto_application_menu"
+msgstr "Меню прыкладанняў і панэль"
+
+msgid "tuto_application_menu_second_part"
+msgstr "2. Націсніце абразок, каб перайсці да меню прыкладання"
+
+msgid "tuto_between_desktops"
+msgstr "Пераключайцеся паміж працоўнымі сталамі, праводзячы пальцам па экране."
+
+msgid "tuto_context_sensitive_menu"
+msgstr "Кантэкстнае меню"
+
+msgid "tuto_exit"
+msgstr "Выйсці"
+
+msgid "tuto_exit_browser"
+msgstr "2. Націсніце абразок для выхада з праглядніка"
+
+msgid "tuto_exit_fullscreen"
+msgstr "1. Націсніце абразок, каб выйсці з поўнаэкраннага рэжыму"
+
+msgid "tuto_find_more"
+msgstr "Даведайцеся больш"
+
+msgid "tuto_further_options"
+msgstr "Націсніце назву, каб паглядзець дадатковыя опцыі"
+
+msgid "tuto_getting_started"
+msgstr "Пачатак працы"
+
+msgid "tuto_go_dashboard"
+msgstr "1. Націсніце значок, каб перайсці да панэлі"
+
+msgid "tuto_learn_maemo"
+msgstr "Даведайцеся пра Maemo у пяць крокаў"
+
+msgid "tuto_open_status_menu"
+msgstr "Націсніце на вобласці статуса, каб адчыніць меню стану"
+
+msgid "tuto_panorama_desktop"
+msgstr "Панарамная стальніца"
+
+msgid "tuto_return_desktop"
+msgstr "3. Націсніце на пустое месца, каб вярнуцца на стальніцу"
+
+msgid "tuto_status_area_menu"
+msgstr "Вобласць статусу і меню"
+
+msgid "tuto_tap_hold"
+msgstr "Націсніце і ўтрымлівайце, каб адчыніць меню"
+
+msgid "tuto_ti_get_started"
+msgstr "Пачатак працы"
+
+msgid "tuto_ti_get_started_with_nokia"
+msgstr "Знаёмства з Nokia N900"
+
+msgid "tuto_view_menu"
+msgstr "Выгляд меню"
