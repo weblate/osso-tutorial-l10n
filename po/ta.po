@@ -3,71 +3,74 @@ msgstr ""
 "Project-Id-Version: osso-tutorial 20090629141149\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.11.02\n"
-"PO-Revision-Date: 2009.11.02\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-15 04:52+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-tutorial-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.3\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "tuto_application_menu"
-msgstr ""
+msgstr "பயன்பாட்டு பட்டியல் மற்றும் டாச்போர்டு"
 
 msgid "tuto_application_menu_second_part"
-msgstr ""
+msgstr "2. பயன்பாட்டு மெனுவுக்குச் செல்ல ஐகானைத் தட்டவும்"
 
 msgid "tuto_between_desktops"
 msgstr ""
+"காட்சி முழுவதும் உங்கள் விரலை சறுக்குவதன் மூலம் டெச்க்டாப்புகளுக்கு இடையில் நகர்த்தவும்"
 
 msgid "tuto_context_sensitive_menu"
-msgstr ""
+msgstr "சூழல்-உணர்திறன் பட்டியல்"
 
 msgid "tuto_exit"
-msgstr ""
+msgstr "வெளியேற"
 
 msgid "tuto_exit_browser"
-msgstr ""
+msgstr "2. உலாவியில் இருந்து வெளியேற ஐகானைத் தட்டவும்"
 
 msgid "tuto_exit_fullscreen"
-msgstr ""
+msgstr "1. முழு திரை பயன்முறையிலிருந்து வெளியேற ஐகானைத் தட்டவும்"
 
 msgid "tuto_find_more"
-msgstr ""
+msgstr "மேலும் கண்டுபிடிக்கவும்"
 
 msgid "tuto_further_options"
-msgstr ""
+msgstr "மேலும் விருப்பங்களைக் காண தலைப்பைத் தட்டவும்"
 
 msgid "tuto_getting_started"
-msgstr ""
+msgstr "தொடங்குதல்"
 
 msgid "tuto_go_dashboard"
-msgstr ""
+msgstr "1. டாச்போர்டுக்குச் செல்ல ஐகானைத் தட்டவும்"
 
 msgid "tuto_learn_maemo"
-msgstr ""
+msgstr "5 படிகளில் மேமோவைக் கற்றுக்கொள்ளுங்கள்"
 
 msgid "tuto_open_status_menu"
-msgstr ""
+msgstr "நிலை மெனுவைத் திறக்க நிலை பகுதியில் தட்டவும்"
 
 msgid "tuto_panorama_desktop"
-msgstr ""
+msgstr "பனோரமா டெச்க்டாப்"
 
 msgid "tuto_return_desktop"
-msgstr ""
+msgstr "3. டெச்க்டாப்பிற்குத் திரும்ப வெற்று இடத்தைத் தட்டவும்"
 
 msgid "tuto_status_area_menu"
-msgstr ""
+msgstr "நிலை பகுதி மற்றும் பட்டியல்"
 
 msgid "tuto_tap_hold"
-msgstr ""
+msgstr "திறந்த மெனுவைத் தட்டவும்"
 
 msgid "tuto_ti_get_started"
-msgstr ""
+msgstr "தொடங்கவும்"
 
 msgid "tuto_ti_get_started_with_nokia"
-msgstr ""
+msgstr "நோக்கியா N900 உடன் தொடங்கவும்"
 
 msgid "tuto_view_menu"
-msgstr ""
+msgstr "மெனுவைக் காண்க"
