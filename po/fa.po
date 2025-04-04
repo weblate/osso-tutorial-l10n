@@ -7,7 +7,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
 "issues/list\n"
 "POT-Creation-Date: 2009.11.02\n"
-"PO-Revision-Date: 2024-12-29 11:00+0000\n"
+"PO-Revision-Date: 2025-04-04 11:15+0000\n"
 "Last-Translator: سعید <hjdicks@riseup.net>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/maemo-leste/"
 "osso-tutorial-l10n/fa/>\n"
@@ -16,40 +16,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 msgid "tuto_application_menu"
 msgstr "منوی برنامه ها و داشبورد"
 
 msgid "tuto_application_menu_second_part"
-msgstr ""
+msgstr "۲. بر روی آیکون بزنید تا به منوی برنامه ها بروید"
 
 msgid "tuto_between_desktops"
-msgstr "دسکتاپ"
+msgstr "میان دستکاپ ها با حرکت دادن انگشتتان بر روی صفحه جا به جا شوید"
 
 msgid "tuto_context_sensitive_menu"
-msgstr ""
+msgstr "منوی زمینه"
 
 msgid "tuto_exit"
-msgstr "خروج"
+msgstr "برای خروج"
 
 msgid "tuto_exit_browser"
-msgstr ""
+msgstr "۲. بر روی آیکون بزنید تا از مرورگر خارج شوید"
 
 msgid "tuto_exit_fullscreen"
-msgstr "تمام صفحه"
+msgstr "۱. بر روی آیکون بزنید تا از حالت تمام صفحه خارج شوید"
 
 msgid "tuto_find_more"
 msgstr "بیشتر بیابید"
 
 msgid "tuto_further_options"
-msgstr ""
+msgstr "بر روی عنوان بزنید تا سایر گزینه ها را ببینید"
 
 msgid "tuto_getting_started"
 msgstr ""
 
 msgid "tuto_go_dashboard"
-msgstr ""
+msgstr "۱. بر روی ایکون بزنید تا به داشبورد بروید"
 
 msgid "tuto_learn_maemo"
 msgstr "مائمو را در ۵ قدم یاد بگیرید"
@@ -58,10 +58,10 @@ msgid "tuto_open_status_menu"
 msgstr ""
 
 msgid "tuto_panorama_desktop"
-msgstr ""
+msgstr "میزکار پاناروما"
 
 msgid "tuto_return_desktop"
-msgstr ""
+msgstr "۳. بر روی محیط خالی بزنید تا به میزکار برگردید"
 
 msgid "tuto_status_area_menu"
 msgstr ""
